@@ -1,0 +1,4 @@
+repository "spine@zhyp@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
